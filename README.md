@@ -47,10 +47,3 @@ The following guides illustrate how to use and setup some features more concrete
 * [Como os testes de contrato melhoram a qualidade dos sistemas distribuídos](https://www.infoq.com/br/articles/contract-testing-spring-cloud-contract/)
 * [GitHub: Spring Cloud Contract Additional Code Samples](https://github.com/spring-cloud-samples/spring-cloud-contract-samples)
 * [Dont like testing? Behold the power of GoHorse Process!!](https://gohorseprocess.com.br/)
-
-### Additional Links
-These additional references should also help you:
-
-* [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
-
-
